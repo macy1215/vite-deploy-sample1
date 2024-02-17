@@ -2,6 +2,7 @@
   <div class="about">
     <h1>This is an about page</h1>
     {{ data }}
+    <p>希望這次能成功</p>
   </div>
 </template>
 
